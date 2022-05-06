@@ -1,7 +1,9 @@
 👋 Hi, I’m @Majesticana
 👀 I’m interested in HR Analytics and Recruiting
 🌱 I’m currently learning Python
+
 I’m looking for someone who's in search for a job in IT and Engineering 
+
 📫 How to reach me anantunes@hotmail.co.uk
 
 <!---
